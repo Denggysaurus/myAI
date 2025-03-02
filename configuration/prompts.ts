@@ -1,4 +1,4 @@
-vimport {
+import {
   AI_NAME,
   OWNER_NAME,
   OWNER_DESCRIPTION,
