@@ -12,14 +12,14 @@ export default function Terms() {
           <ArrowLeftIcon className="w-4 h-4" />
           Back to Chatbot
         </Link>
-        <h1 className="text-3xl font-bold">AI Chatbot</h1>
+        <h1 className="text-3xl font-bold">HomeGuru</h1>
         <h2 className="text-2xl font-semibold">
-          Terms of Use and Disclaimer for AI Chatbot
+          Terms of Use and Disclaimer for HomeGuru AI Assistant
         </h2>
         <ol className="list-decimal list-inside space-y-4">
           <li className="text-gray-700">
             <span className="font-semibold">Acceptance of Terms:</span> By
-            accessing and using the AI chatbot ("Chatbot") provided by Ramsy
+            accessing and using HomeGuru ("Chatbot") provided by Ramsy
             ("Provider"), you acknowledge that you have read, understood, and
             agreed to be bound by these Terms of Use. If you do not agree with
             these terms, do not use the Chatbot.
@@ -54,12 +54,13 @@ export default function Terms() {
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">
-              No Legal, Financial, or Professional Advice:
+              No Legal, Financial, or Real Estate Advice:
             </span>{" "}
-            The Chatbot is intended for informational and general purposes only.
-            It does not constitute legal, financial, medical, or professional
-            advice. Any reliance on the information provided by the Chatbot is
-            at your own risk.
+            The Chatbot is intended for informational purposes only regarding
+            home buying and selling. It does not constitute legal, financial, or
+            professional real estate advice. Any reliance on the information
+            provided by the Chatbot is at your own risk. Always consult a
+            licensed real estate professional before making any decisions.
           </li>
           <li className="text-gray-700">
             <span className="font-semibold">User Responsibility:</span> You are
